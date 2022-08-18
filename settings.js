@@ -66,17 +66,17 @@ global.ownertag = '94702771499' //ur tag number
 global.botname = 'Menula Jayasekara' //ur bot name
 global.linkz = "https://www.youtube.com/results?search_query=Mr.Menuwa" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/results?search_query=Mr.Menuwa" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.botscript = 'https://ibb.co/pKGCNbQ' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Mr.Menuwa Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
 global.author = "🦄Dream Guy Menula" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://ibb.co/pKGCNbQ") //ur thumb pic
+global.log0 = fs.readFileSync("https://ibb.co/pKGCNbQ") //ur logo pic
+global.err4r = fs.readFileSync("https://ibb.co/pKGCNbQ") //ur error pic
+global.thumb = fs.readFileSync("https://ibb.co/pKGCNbQ") //ur thumb pic
 
 //damtabase
 global.premium = ['94702771499'] //ur premium numbers
@@ -133,7 +133,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
+global.thumb = fs.readFileSync('https://ibb.co/pKGCNbQ')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
